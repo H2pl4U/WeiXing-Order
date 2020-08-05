@@ -1,1 +1,3 @@
-# WeiXin-Order
+# 微信点餐系统
+后端采用Springboot，Redis，消息队列等实现微信点餐系统，并含商品秒杀功能。
+前端采用vue框架
